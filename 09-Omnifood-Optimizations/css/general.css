@@ -52,6 +52,8 @@ html {
   font-size: 62.5%;
   /* base de cálculo para rem => 1rem = 10px, but as a percentage of user's browse font-size setting */
   overflow-x: hidden;
+  /* Might not work on all browsers like Safari
+  scroll-behavior: smooth; */
 }
 
 body {
