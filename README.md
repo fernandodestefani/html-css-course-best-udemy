@@ -9,7 +9,7 @@
 Below are some interactive projects built throughout the course:  
 
 ### 📰 The Code Magazine  
-![the_code_magazine](https://github.com/user-attachments/assets/76181691-7ed0-4c55-bb35-03b30d15a707)
+<img src="https://github.com/user-attachments/assets/76181691-7ed0-4c55-bb35-03b30d15a707" alt="the_code_magazine" width="75%" />
 
 ### 🪑 Lisbon Chair Shop  
 *Note: Check the `lisbon-chair-shop.gif` file in the repository for the preview.*  
