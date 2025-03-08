@@ -11,8 +11,8 @@ Below are some interactive projects built throughout the course:
 ### 📰 The Code Magazine  
 ![the_code_magazine](https://github.com/user-attachments/assets/76181691-7ed0-4c55-bb35-03b30d15a707)
 
-
 ### 🪑 Lisbon Chair Shop  
+*Note: Check the `lisbon-chair-shop.gif` file in the repository for the preview.*  
 
 ---
 
@@ -27,6 +27,7 @@ Some reusable components created in the course:
 ![carousel](https://github.com/user-attachments/assets/97ab5659-e529-4ba5-bf1f-8d932f8df2ac)
 
 ### 🦸 Hero Section  
+*Note: Check the `hero.gif` file in the repository for the preview.*  
 
 ### 📦 Item Component  
 ![item_component](https://github.com/user-attachments/assets/feddeeee-4a2c-4f49-8d4c-fbb7093121fd)
