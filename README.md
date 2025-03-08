@@ -21,22 +21,22 @@ Below are some interactive projects built throughout the course:
 Some reusable components created in the course:  
 
 ### 🔽 Accordion
-![accordion](https://github.com/user-attachments/assets/89dfee42-7f0a-4212-8575-29578a7fa44e)
+<img src="https://github.com/user-attachments/assets/89dfee42-7f0a-4212-8575-29578a7fa44e" alt="accordion" width="50%" />
 
 ### 🎠 Carousel  
-![carousel](https://github.com/user-attachments/assets/97ab5659-e529-4ba5-bf1f-8d932f8df2ac)
+<img src="https://github.com/user-attachments/assets/97ab5659-e529-4ba5-bf1f-8d932f8df2ac" alt="carousel" width="50%" />
 
 ### 🦸 Hero Section  
 *Note: Check the `hero.gif` file in the repository for the preview.*  
 
 ### 📦 Item Component  
-![item_component](https://github.com/user-attachments/assets/feddeeee-4a2c-4f49-8d4c-fbb7093121fd)
+<img src="https://github.com/user-attachments/assets/feddeeee-4a2c-4f49-8d4c-fbb7093121fd" alt="item_component" width="50%" />
 
 ### 🔢 Pagination 
-![pagination](https://github.com/user-attachments/assets/2e123765-10f4-446b-88e9-b75c879aa006)
+<img src="https://github.com/user-attachments/assets/2e123765-10f4-446b-88e9-b75c879aa006" alt="pagination" width="50%" />
 
 ### 📊 Table  
-![table](https://github.com/user-attachments/assets/6a2a6531-1f25-42c2-ab74-b2f746e6281e)
+<img src="https://github.com/user-attachments/assets/6a2a6531-1f25-42c2-ab74-b2f746e6281e" alt="table" width="50%" />
 
 ---
 
